@@ -11,7 +11,7 @@ You'll need [Node.js](https://nodejs.org) installed on your computer in order to
 
 ```bash
 git clone https://github.com/mariana-pereira/chat-me-react-native
-$ cd chat-app
+$ cd chat
 $ yarn install
 $ yarn android to run on android or yarn ios to run on ios
 ```
